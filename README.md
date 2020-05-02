@@ -1,4 +1,4 @@
-# educatorr
+# Educatorr
  Uma aplicação para gerenciamento de uma universidade
 
 Login dos cordenadores:
